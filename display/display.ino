@@ -64,9 +64,6 @@ void setup() {
 }
 
 void loop() {
-  // start working...
-  Serial.println("=================================");
-  Serial.println("Sample DHT11...");
   
   // read without samples.
   byte temperature = 0;
